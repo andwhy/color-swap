@@ -31,6 +31,10 @@ A printer driver uses black ink for the gray part of a color, K = 1 − max(R, G
 renders each page in grayscale, then maps it to a palette where one RGB channel is always 255,
 so K = 0.
 
+## License
+
+[MIT](LICENSE)
+
 ---
 
 **По-русски:** утилита для macOS на случай, когда кончился чёрный картридж, а цветной ещё есть.

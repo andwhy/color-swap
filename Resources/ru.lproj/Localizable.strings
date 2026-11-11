@@ -1,0 +1,20 @@
+/* Русский */
+"Could not open the PDF: %@" = "Не получилось открыть PDF: %@";
+"The PDF is password-protected." = "PDF защищён паролем.";
+"Could not create %@" = "Не получилось создать %@";
+"Not enough memory for page %d." = "Не хватило памяти на страницу %d.";
+"Could not prepare page %d." = "Не получилось подготовить страницу %d.";
+"Choose a PDF. Black will be printed with color ink." = "Выберите PDF. Чёрное будет напечатано цветными чернилами.";
+"Print" = "Печатать";
+"Could not open the converted PDF." = "Не открылся перекрашенный PDF.";
+"Could not start printing." = "Не получилось начать печать.";
+"Available colors: blue, red, green" = "Доступные цвета: blue, red, green";
+"Color: %@, coverage: %.3f pages" = "Цвет: %@, заливка: %.3f стр.";
+"%@: %.3f pages of solid fill" = "%@: %.3f стр. сплошной заливки";
+"Last color: %@" = "Последний цвет: %@";
+"blue" = "синий";
+"red" = "красный";
+"green" = "зелёный";
+"cyan" = "голубой";
+"magenta" = "пурпурный";
+"yellow" = "жёлтый";

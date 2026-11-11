@@ -1,0 +1,20 @@
+/* Français */
+"Could not open the PDF: %@" = "Impossible d’ouvrir le PDF : %@";
+"The PDF is password-protected." = "Le PDF est protégé par un mot de passe.";
+"Could not create %@" = "Impossible de créer %@";
+"Not enough memory for page %d." = "Mémoire insuffisante pour la page %d.";
+"Could not prepare page %d." = "Impossible de préparer la page %d.";
+"Choose a PDF. Black will be printed with color ink." = "Choisissez un PDF. Le noir sera imprimé avec les encres couleur.";
+"Print" = "Imprimer";
+"Could not open the converted PDF." = "Impossible d’ouvrir le PDF converti.";
+"Could not start printing." = "Impossible de lancer l’impression.";
+"Available colors: blue, red, green" = "Couleurs disponibles : blue, red, green";
+"Color: %@, coverage: %.3f pages" = "Couleur : %@, couverture : %.3f pages";
+"%@: %.3f pages of solid fill" = "%@ : %.3f pages en aplat";
+"Last color: %@" = "Dernière couleur : %@";
+"blue" = "bleu";
+"red" = "rouge";
+"green" = "vert";
+"cyan" = "cyan";
+"magenta" = "magenta";
+"yellow" = "jaune";
